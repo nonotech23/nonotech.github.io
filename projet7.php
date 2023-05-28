@@ -55,7 +55,7 @@
                     <p><span class="me-important">Temps:</span> 6 mois</p>
                     <p><span class="me-important">Année:</span> 2021 - 2022</p>
                     <p><span class="me-important">Type:</span> Réseaux</p>
-                    <p><span class="me-important">Groupe:</span> Equipe de 3</p>
+                    <p><span class="me-important">Groupe:</span> Trio</p>
                 </div>
                 <div class="droite">
                     <h3>But</h3>

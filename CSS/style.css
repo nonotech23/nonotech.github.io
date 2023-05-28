@@ -68,7 +68,6 @@ header{
 }
 
 .logo img{
-    height: 3.125rem;
     width: 3.125rem;
 }
 
@@ -738,6 +737,6 @@ nav.footer {
 @media only screen and (max-height: 930px){
 
     .footer{
-        height: 29rem;
+        height: 25rem;
     }
 }

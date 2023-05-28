@@ -35,7 +35,7 @@
                     <p><span class="me-important">Temps:</span> 1 mois</p>
                     <p><span class="me-important">Année:</span> 2022 - 2023</p>
                     <p><span class="me-important">Type:</span> Gestion de Projet</p>
-                    <p><span class="me-important">Groupe:</span> Equipe de 4</p>
+                    <p><span class="me-important">Groupe:</span> Quatuor</p>
                 </div>
                 <div class="droite">
                     <h3>But</h3>

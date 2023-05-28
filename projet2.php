@@ -9,11 +9,11 @@
     <!-- Content -->
     <main>
         <a href="#" class="lightbox" id="img1">
-            <span style="background-image: url('IMG/Projects/12.png')"></span>
+            <span style="background-image: url('IMG/Projects/12.svg')"></span>
             <p>Affiche d'évènement</p>
         </a>
         <a href="#" class="lightbox" id="img2">
-            <span style="background-image: url('IMG/Projects/13.png')"></span>
+            <span style="background-image: url('IMG/Projects/13.svg')"></span>
             <p>Flyer d'évènement</p>
         </a>
 
@@ -23,10 +23,10 @@
 
                 <!-- thumbnail image wrapped in a link -->
                 <a href="#img1">
-                    <img id="img-s" src="IMG/Projects/12.png" alt="Affiche évènement">
+                    <img id="img-s" src="IMG/Projects/12.svg" alt="Affiche évènement">
                 </a>
                 <a href="#img2">
-                    <img id="img-s" src="IMG/Projects/13.png" alt="Flyer évènement">
+                    <img id="img-s" src="IMG/Projects/13.svg" alt="Flyer évènement">
                 </a>
 
             </div>

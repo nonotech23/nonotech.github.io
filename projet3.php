@@ -55,7 +55,7 @@
                     <p><span class="me-important">Temps:</span> 2 mois</p>
                     <p><span class="me-important">Année:</span> 2022</p>
                     <p><span class="me-important">Type:</span> Audiovisuel</p>
-                    <p><span class="me-important">Groupe:</span> Equipe de 3</p>
+                    <p><span class="me-important">Groupe:</span> Trio</p>
                 </div>
                 <div class="droite">
                     <h3>Description</h3>

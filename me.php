@@ -42,7 +42,7 @@
                             aux <span class="me-important">jeux vidéo</span> !
                         </p>
                         <div data-aos="fade-left" data-aos-duration="1500" data-aos-anchor-placement="top-bottom" data-aos-once="true" data-aos-delay="500" class="aos-init aos-animate">
-                            <a href="img/CV_Noan_Delaneau.pdf" target="_blank">VOIR MON CV ➔</a>
+                            <a href="IMG/CV_Noan_Delaneau.pdf" target="_blank">VOIR MON CV ➔</a>
                         </div>
                     </div>
                 </div>

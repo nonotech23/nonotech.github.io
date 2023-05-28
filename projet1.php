@@ -9,14 +9,36 @@
     <!-- Content -->
     <main>
         <a href="#" class="lightbox" id="img1">
-            <span style="background-image: url('IMG/Projects/pokedex.png')"></span>
+            <span style="background-image: url('IMG/Projects/poke1.png')"></span>
+            <p>Page connexion</p>
+        </a>
+        <a href="#" class="lightbox" id="img2">
+            <span style="background-image: url('IMG/Projects/pokedex.svg')"></span>
+            <p>Page chargement</p>
+        </a>
+        <a href="#" class="lightbox" id="img3">
+            <span style="background-image: url('IMG/Projects/poke3.png')"></span>
+            <p>Page collection</p>
+        </a>
+        <a href="#" class="lightbox" id="img4">
+            <span style="background-image: url('IMG/Projects/poke4.png')"></span>
+            <p>Page information</p>
         </a>
         <section class="descr pages">
             <h2>Pokedex</h2>
             <div class="project-img-present">
                 <!-- thumbnail image wrapped in a link -->
                 <a href="#img1">
-                    <img src="IMG/Projects/pokedex.png" alt="Image projet pokedex">
+                    <img src="IMG/Projects/poke1.png" alt="Image projet pokedex">
+                </a>
+                <a href="#img2">
+                    <img src="IMG/Projects/pokedex.svg" alt="Image projet pokedex">
+                </a>
+                <a href="#img3">
+                    <img src="IMG/Projects/poke3.png" alt="Image projet pokedex">
+                </a>
+                <a href="#img4">
+                    <img src="IMG/Projects/poke4.png" alt="Image projet pokedex">
                 </a>
             </div>
             <div class="box">
