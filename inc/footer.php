@@ -7,7 +7,7 @@
     <li class="footer--list--item"><a href="mailto:delaneau.n@gmail.com">mail</a></li>
   </ol>
   <div>
-    <div class="copyright">1.0.0</div>
+    <div class="copyright">1.0.1</div>
     <div class="copyright">©NONOTECH</div>
     <div class="copyright"><?= date('Y') ?></div>
   </div>

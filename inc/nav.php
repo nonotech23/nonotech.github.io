@@ -7,7 +7,7 @@
             <ul id="primary">
                 <li><a href="projets.php">Mes Projets</a></li>
                 <li><a href="me.php">À propos</a></li>
-                <li><a href="img/CV_Noan_Delaneau.pdf" target="_blank">Mon CV</a></li>
+                <li><a href="IMG/CV_Noan_Delaneau.pdf" target="_blank">Mon CV</a></li>
             </ul>
         </div>
         <div>
